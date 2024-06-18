@@ -13,8 +13,8 @@ const Navigation = () => {
                     <img src={crownLogo} className="logo" alt="Crown Logo" />
                 </Link>
                 <div className="nav-links-container">
-                    <Link className="nav-link" to='/home'>
-                        SHOP
+                    <Link className="nav-link" to='/sign-in'>
+                        SIGN IN
                     </Link>
                 </div>
             </div>

@@ -16,14 +16,16 @@ const categories = [
     },
     {
       id: 4,
-      title: "WOMENS",
-      imageUrl: "https://i.ibb.co/GCCdy8t/womens.png"
+      title: "MENS",
+      imageUrl: "https://i.ibb.co/R70vBrQ/men.png"
     },
     {
       id: 5,
-      title: "MENS",
-      imageUrl: "https://i.ibb.co/R70vBrQ/men.png"
+      title: "WOMENS",
+      imageUrl: "https://i.ibb.co/GCCdy8t/womens.png"
     }
   ]
 
   export default categories;
+
+  
